@@ -14,6 +14,7 @@ Change on B.
 With a new line as well.
 Change on other file.
 A change on dev branch.
+Change on file that was renamed on master.
 
 
 End
