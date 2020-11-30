@@ -12,6 +12,7 @@ For branch_b add here:
 Change on B.
 With a new line as well.
 Change on other file.
+A change on dev branch.
 
 
 End
