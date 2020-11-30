@@ -6,6 +6,7 @@ For branch_a add here:
 Added some stuff.
 And a new line.
 Change on renamed for master.
+Another change on master.
 
 
 For branch_b add here:
