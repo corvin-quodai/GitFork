@@ -9,6 +9,7 @@ Change on renamed for master.
 Another change on master.
 Change without rename on master.
 Simple change on master.
+To normal chmod.
 
 
 For branch_b add here:
