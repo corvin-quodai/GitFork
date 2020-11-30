@@ -7,6 +7,7 @@ Added some stuff.
 And a new line.
 Change on renamed for master.
 Another change on master.
+Change without rename on master.
 
 
 For branch_b add here:
