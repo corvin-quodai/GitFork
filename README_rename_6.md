@@ -20,6 +20,7 @@ A change on dev branch.
 Change on file that was renamed on master.
 Change on dev before rename.
 Simple change on dev.
+Change 27
 
 change during merge.
 
