@@ -19,7 +19,7 @@ Change 24
 Change 28. Another change.
 Change 29.
 Change 30.
-Change 31.
+Change 31. Change on merge.
 
 Changes on develop:
 Change 15
@@ -42,5 +42,6 @@ Change 24
 Change 27. Another change.
 Change 29.
 Change 30.
+Change 31.
 
 ## END ##
