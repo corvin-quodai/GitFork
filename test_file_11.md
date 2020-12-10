@@ -16,7 +16,7 @@ Change 21
 Change 22
 Change 23
 Change 24
-Change 28.
+Change 28. Another change.
 
 Changes on develop:
 Change 15
