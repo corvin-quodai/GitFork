@@ -21,6 +21,7 @@ Change on file that was renamed on master.
 Change on dev before rename.
 Simple change on dev.
 Change 27
+Change 28
 
 change during merge.
 
