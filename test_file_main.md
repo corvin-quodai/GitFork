@@ -1,3 +1,5 @@
+This is now the main test file.
+
 Changes on master:
 Change 1
 Change case 15
