@@ -1,4 +1,5 @@
 This is now the main test file.
+One addition tho!
 
 Changes on master:
 Change 1
@@ -76,3 +77,5 @@ Change 36-1.
 Change 36-2.
 
 ## END ##
+
+Some additions after the end.
